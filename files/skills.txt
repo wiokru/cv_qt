@@ -1,0 +1,12 @@
+Skills:   
+
+ -	Java
+ -	C++
+ -	C
+ - 	OOP
+ -	SQL/Oracle, basic PL/SQL
+ -	UML
+
+Languages: 	
+
+ -	English - B2, good knowledge
